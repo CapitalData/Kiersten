@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kiersten Henderson
+title: Kiersten Henderson, Ph.D.
 ---
 
 Kiersten Henderson joined Berkeley Data Science Group and
