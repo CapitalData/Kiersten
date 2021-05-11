@@ -6,4 +6,8 @@ Kiersten Henderson joined Austin Capital Data Corp. (ACD) as a Data Science Inte
 
 -----
 
-Kiersten received her PhD from Cornell Medical School in Genetics and Cell Biology. She did her postdoctoral research on the cell biology of aging at the Fred Hutchinson Cancer Research Center in Seattle and graduated from the Masters in Data Science (MIDS) program at UC Berkeley in December 2018. Kiersten is currently the Director of Data Science at ioCurrents.
+Kiersten received her PhD from Cornell Medical School in Genetics and Cell Biology. She did her postdoctoral research on the cell biology of aging at the Fred Hutchinson Cancer Research Center in Seattle and graduated from the Masters in Data Science (MIDS) program at UC Berkeley in December 2018. 
+
+-----
+
+Kiersten is currently the Director of Data Science at ioCurrents.
