@@ -1,8 +1,9 @@
 # Setup
 title: Team Member
-url: https://getpoole.com
+url: https://mayraaleli85.io/Kiersten
 paginate: 1
-baseurl: ""
+paginate_path: "/Kiersten/page:num/"
+baseurl: "/Kiersten"
 permalink: pretty
 
 # Gems
