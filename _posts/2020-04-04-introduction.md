@@ -3,7 +3,6 @@ layout: post
 title: Kiersten Henderson, Ph.D.
 ----
 
-
 Kiersten Henderson joined Berkeley Data Science Group and
 our partner company Austin Capital Data Corp. as a Data Scientist in
 2017 . She has over 15 years of expertise in Biomedical research.
