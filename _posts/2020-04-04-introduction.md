@@ -2,7 +2,7 @@
 layout: post
 title: Kiersten Henderson, Ph.D.
 ---
-Kiersten Henderson joined Austin Capital Data Corp. (ACD) as a Data Science Intern in 2017 and worked her way up to a Senior Data Scientist by 2019.  While at ACD, her contributions spanned a range of projects including machine learning to predict which Biotech startups would IPO, and graph analysis to identify new candidate genes linked to congenital diseases.
+Kiersten Henderson joined Austin Capital Data Corp. (ACD) as a Data Scientist in 2017 and worked her way up to a Senior Data Scientist by 2019.  While at ACD, her contributions spanned a range of projects including machine learning to predict which Biotech startups would IPO, and graph analysis to identify new candidate genes linked to congenital diseases.
 
 -----
 
